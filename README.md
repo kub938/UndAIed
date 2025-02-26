@@ -79,66 +79,65 @@ UndAIed는 "어떻게 하면 LLM에 대한 인간 선호도 평가 데이터를 
 
 ## 홈페이지
 
-| 기능        | 화면                                                                                                                              |
-| ----------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| 유저 로그인 | <video autoplay loop muted playsinline style="max-width: 100%;"><source src="exec/assets/login.mp4" type="video/mp4"></video>     |
-| 튜토리얼    | <video autoplay loop muted playsinline style="max-width: 100%;"><source src="exec/assets/tutorial.mp4" type="video/mp4"></video>  |
-| 게임 시작   | <video autoplay loop muted playsinline style="max-width: 100%;"><source src="exec/assets/gameStart.mp4" type="video/mp4"></video> |
+| 기능 | 화면 |
+|------|------|
+| 유저 로그인 | ![로그인](exec/assets/login.gif) |
+| 튜토리얼 | ![튜토리얼](exec/assets/tutorial.gif) |
+| 게임 시작 | ![게임 시작](exec/assets/gameStart.gif) |
 
 <br>
 <br>
 
 ## 게시판
 
-| 기능                  | 화면                                                                                                                          |
-| --------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| 버그리포트 / 공지사항 | <video autoplay loop muted playsinline style="max-width: 100%;"><source src="exec/assets/board.mp4" type="video/mp4"></video> |
+| 기능 | 화면 |
+|------|------|
+| 버그리포트 / 공지사항 | ![게시판](exec/assets/board.gif) |
 
 <br>
 <br>
 
 ## 게임 메인
 
-| 기능               | 화면                                                                                                                                       |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 실시간 유저 채팅   | <video autoplay loop muted playsinline style="max-width: 100%;"><source src="exec/assets/lobby-chat.mp4" type="video/mp4"></video>         |
-| 실시간 대기실 목록 | <video autoplay loop muted playsinline style="max-width: 100%;"><source src="exec/assets/lobby-room-created.mp4" type="video/mp4"></video> |
-| 방만들기           | <video autoplay loop muted playsinline style="max-width: 100%;"><source src="exec/assets/room-create.mp4" type="video/mp4"></video>        |
-| 게임 설정          | <video autoplay loop muted playsinline style="max-width: 100%;"><source src="exec/assets/setting.mp4" type="video/mp4"></video>            |
+| 기능 | 화면 |
+|------|------|
+| 실시간 유저 채팅 | ![로비 유저 채팅](exec/assets/lobby-chat.gif) |
+| 실시간 대기실 목록 | ![로비 대기실 목록](exec/assets/lobby-room-created.gif) |
+| 방만들기 | ![방만들기](exec/assets/room-create.gif) |
+| 게임 설정 | ![게임 설정](exec/assets/setting.gif) |
 
 <br>
 <br>
 
 ## 게임 대기실
 
-| 기능                  | 화면                                                                                                                               |
-| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| 실시간 유저 입장/퇴장 | <video autoplay loop muted playsinline style="max-width: 100%;"><source src="exec/assets/room-enter.mp4" type="video/mp4"></video> |
-| 실시간 채팅           | <video autoplay loop muted playsinline style="max-width: 100%;"><source src="exec/assets/room-chat.mp4" type="video/mp4"></video>  |
+| 기능 | 화면 |
+|------|------|
+| 실시간 유저 입장/퇴장 | ![대기방 유저 입장](exec/assets/room-enter.gif) |
+| 실시간 채팅 | ![대기방 채팅](exec/assets/room-chat.gif) |
 
 <br>
 <br>
 
 ## 게임 플레이
 
-| 기능     | 화면                                                                                                                             |
-| -------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| 주제토론 | <video autoplay loop muted playsinline style="max-width: 100%;"><source src="exec/assets/주제토론.mp4" type="video/mp4"></video> |
-| 자유토론 | <video autoplay loop muted playsinline style="max-width: 100%;"><source src="exec/assets/자유토론.mp4" type="video/mp4"></video> |
-| 투표     | <video autoplay loop muted playsinline style="max-width: 100%;"><source src="exec/assets/투표.mp4" type="video/mp4"></video>     |
+| 기능 | 화면 |
+|------|------|
+| 주제토론 | ![주제토론](exec/assets/주제토론.gif) |
+| 자유토론 | ![자유토론](exec/assets/자유토론.gif) |
+| 투표 | ![투표](exec/assets/투표.gif) |
 
 <br>
 <br>
 
 ## 마이페이지
 
-| 기능        | 화면                                                                                                                                     |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| 프로필 수정 | <video autoplay loop muted playsinline style="max-width: 100%;"><source src="exec/assets/profile-change.mp4" type="video/mp4"></video>   |
-| 캐릭터 변경 | <video autoplay loop muted playsinline style="max-width: 100%;"><source src="exec/assets/character-change.mp4" type="video/mp4"></video> |
-| 전적 확인   | <video autoplay loop muted playsinline style="max-width: 100%;"><source src="exec/assets/gamerecord-check.mp4" type="video/mp4"></video> |
+| 기능 | 화면 |
+|------|------|
+| 프로필 수정 | ![프로필 수정](exec/assets/profile-change.gif) |
+| 캐릭터 변경 | ![캐릭터 변경](exec/assets/character-change.gif) |
+| 전적 확인 | ![전적 확인](exec/assets/gamerecord-check.gif) |
 
-##
 
 <br>
 <br>
